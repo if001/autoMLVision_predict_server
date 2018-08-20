@@ -1,8 +1,8 @@
-src/upload/
+src/upload/*
 !src/upload/.gitkeep
 src/*.pyc
 src/key/sharp-respect-182803-30d43dc600fd.json
 !src/key/.gitkeep
 .DS_Store
-src/thumb/
+src/thumb/*
 !src/thumb/.gitkeep
